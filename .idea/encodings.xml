@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringKafka/Kafka-Producer-Wkimedia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringKafka/Sprinf-Producer-Wikimedia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringKafka/Spring-Producer-wikimedia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringKafka/SpringKafkaWikimedia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringKafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringKafka/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
